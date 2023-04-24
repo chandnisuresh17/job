@@ -1,0 +1,24 @@
+{ 
+  "Jobs":[ 
+    {
+      "jobName": " Developer",
+      "Salary": 56,
+      "Location": "NY",
+      "Skills": "oops"
+     },
+  
+  {
+    "jobName": "React developer",
+    "Salary": 20,
+    "Location": "LA",
+    "Skills": "Html,CSS , React"
+  
+  }
+  ],
+  "users":[
+    {
+      "email":"chandnisuresh2000@gmail.com",
+       "password":"gthdkjnfs"
+    }
+  ]
+}
